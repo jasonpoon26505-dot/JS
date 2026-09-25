@@ -1,1 +1,1 @@
-# JS
+trading-journal
